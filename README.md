@@ -24,23 +24,13 @@ My custom Task notification solution is implemented as a trigger in Salesforce. 
 
 The notification's title, content, sender, and type are all customized to ensure that it provides valuable and actionable information. Once the notification is prepared, it is sent to the appropriate user or group using Salesforce's custom notification system.
 
-## Getting Started
-
-To implement this solution in yMy Salesforce environment, follow these steps:
-
-1. [Add instructions for setting up the trigger and classes in yMy Salesforce org]
-
-2. [Explain how to create custom notification types, if applicable]
-
-3. [Provide guidance on how to customize and extend the solution to suit yMy specific needs]
-
 ## Contributing
 
 We welcome contributions to this project! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request. We value the collaborative spirit of the Salesforce community and look forward to working together.
 
 ## License
 
-[Specify the license under which yMy solution is available]
+Free
 
 ## Tags
 
